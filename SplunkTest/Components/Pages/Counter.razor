@@ -1,4 +1,7 @@
-﻿@page "/counter"
+﻿@page "/counter" 
+@*here has the website management area, it seems like shown on the left bar
+ and funny thing: I cannot put "@*" after other @ tags
+*@
 @rendermode InteractiveServer
 
 <PageTitle>Counter</PageTitle>
@@ -6,10 +9,11 @@
 <h1>Counter</h1>
 
 <p role="status">Current count: @currentCount</p>
+@* so the "@" is targetted to the variables *@
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button> @*here has the webpage structure *@
 
-@code {
+@code { @* this is the logic part yes.*@
     private int currentCount = 0;
 
     private void IncrementCount()

@@ -50,43 +50,6 @@
         }
       },
       {
-        "HashCode": 731179748,
-        "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Counter",
-        "AssemblyName": "SplunkTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "SplunkTest.Components.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -238399422,
-        "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Counter",
-        "AssemblyName": "SplunkTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SplunkTest.Components.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "SplunkTest.Components.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
         "HashCode": -216418954,
         "Kind": "Components.Component",
         "Name": "SplunkTest.Components.Pages.Error",
@@ -118,6 +81,43 @@
         "Metadata": {
           "Common.TypeName": "SplunkTest.Components.Pages.Error",
           "Common.TypeNameIdentifier": "Error",
+          "Common.TypeNamespace": "SplunkTest.Components.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1087738779,
+        "Kind": "Components.Component",
+        "Name": "SplunkTest.Components.Pages.Weather",
+        "AssemblyName": "SplunkTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Weather"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SplunkTest.Components.Pages.Weather",
+          "Common.TypeNameIdentifier": "Weather",
+          "Common.TypeNamespace": "SplunkTest.Components.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": -1906641396,
+        "Kind": "Components.Component",
+        "Name": "SplunkTest.Components.Pages.Weather",
+        "AssemblyName": "SplunkTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SplunkTest.Components.Pages.Weather"
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SplunkTest.Components.Pages.Weather",
+          "Common.TypeNameIdentifier": "Weather",
           "Common.TypeNamespace": "SplunkTest.Components.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
@@ -161,37 +161,37 @@
         }
       },
       {
-        "HashCode": -1087738779,
+        "HashCode": 731179748,
         "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Weather",
+        "Name": "SplunkTest.Components.Pages.Counter",
         "AssemblyName": "SplunkTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Weather"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Weather",
-          "Common.TypeNameIdentifier": "Weather",
+          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "SplunkTest.Components.Pages",
           "Runtime.Name": "Components.IComponent"
         }
       },
       {
-        "HashCode": -1906641396,
+        "HashCode": -238399422,
         "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Weather",
+        "Name": "SplunkTest.Components.Pages.Counter",
         "AssemblyName": "SplunkTest",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "SplunkTest.Components.Pages.Weather"
+            "TagName": "SplunkTest.Components.Pages.Counter"
           }
         ],
         "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Weather",
-          "Common.TypeNameIdentifier": "Weather",
+          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "SplunkTest.Components.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"

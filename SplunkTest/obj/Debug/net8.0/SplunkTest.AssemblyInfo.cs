@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SplunkTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba9cdd93b36f58ffa1ce94c4e502063481b37b8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6feb51f5bbaf610a88dc58e9623320b13ea90c7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SplunkTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SplunkTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
