@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yBsntKb+U7VoxvLuYww+Dz7i2DCeXg9MNP4IRdMqMelvYwYC9PBqSV6Vkee9oRNNZjyphzoUllOE78jUaxF37Q==",
+  "success": true,
+  "projectFilePath": "/home/mizuho0w0/Projects/splunk_test/SplunkTest/SplunkTest.csproj",
+  "expectedPackageFiles": [
+    "/home/mizuho0w0/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.8/microsoft.aspnetcore.app.ref.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
