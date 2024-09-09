@@ -87,6 +87,65 @@
         }
       },
       {
+        "HashCode": 1313526455,
+        "Kind": "Components.Component",
+        "Name": "SplunkTest.Components.Pages.Counter",
+        "AssemblyName": "SplunkTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "SplunkTest.Components.Pages",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
+        "HashCode": 710281472,
+        "Kind": "Components.Component",
+        "Name": "SplunkTest.Components.Pages.Counter",
+        "AssemblyName": "SplunkTest",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SplunkTest.Components.Pages.Counter"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "IncrementAmount",
+            "TypeName": "System.Int32",
+            "Metadata": {
+              "Common.PropertyName": "IncrementAmount",
+              "Common.GloballyQualifiedTypeName": "global::System.Int32"
+            }
+          }
+        ],
+        "Metadata": {
+          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
+          "Common.TypeNameIdentifier": "Counter",
+          "Common.TypeNamespace": "SplunkTest.Components.Pages",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
+          "Runtime.Name": "Components.IComponent"
+        }
+      },
+      {
         "HashCode": -1087738779,
         "Kind": "Components.Component",
         "Name": "SplunkTest.Components.Pages.Weather",
@@ -155,43 +214,6 @@
         "Metadata": {
           "Common.TypeName": "SplunkTest.Components.Pages.Home",
           "Common.TypeNameIdentifier": "Home",
-          "Common.TypeNamespace": "SplunkTest.Components.Pages",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": 731179748,
-        "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Counter",
-        "AssemblyName": "SplunkTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
-          "Common.TypeNamespace": "SplunkTest.Components.Pages",
-          "Runtime.Name": "Components.IComponent"
-        }
-      },
-      {
-        "HashCode": -238399422,
-        "Kind": "Components.Component",
-        "Name": "SplunkTest.Components.Pages.Counter",
-        "AssemblyName": "SplunkTest",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SplunkTest.Components.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Common.TypeName": "SplunkTest.Components.Pages.Counter",
-          "Common.TypeNameIdentifier": "Counter",
           "Common.TypeNamespace": "SplunkTest.Components.Pages",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch",
           "Runtime.Name": "Components.IComponent"
